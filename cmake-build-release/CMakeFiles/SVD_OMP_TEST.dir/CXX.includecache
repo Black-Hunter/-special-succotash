@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/Main/svd.cpp
+svd.h
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/Main/svd.h
+cmath
+-
+cstdlib
+-
+iostream
+-
+vector
+-
+cstring
+-
+../headers/aligned_allocator.h
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/headers/aligned_allocator.h
+memory
+-
+thread
+-
+cassert
+-
+
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/Main/svd.h
+memory
+-
+
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/headers/aligned_allocator.h
+cstdlib
+-
+malloc.h
+-
+

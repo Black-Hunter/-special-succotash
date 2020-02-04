@@ -1,0 +1,6 @@
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/cmake-build-release/CMakeFiles/SVD_OMP_RUN.dir
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/cmake-build-release/CMakeFiles/SVD_OMP_TEST.dir
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/cmake-build-release/catch/CMakeFiles/rebuild_cache.dir
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/cmake-build-release/catch/CMakeFiles/edit_cache.dir

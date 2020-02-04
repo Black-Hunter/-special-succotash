@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/Main.cpp
+svd.h
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/svd.h
+iostream
+-
+omp.h
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/omp.h
+
+/home/jido/Desktop/Uni_Jena_Informatik_Master/Dritte_Semester/Algorithm_Engnieering/svd_GIT/svd.h
+memory
+-
+
