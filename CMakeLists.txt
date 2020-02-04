@@ -38,7 +38,7 @@ set(CMAKE_BUILD_TYPE Release)
 
 find_package(OpenMP REQUIRED)
 
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}  -fsanitize=address")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Ofast -march=native -ffast-math -fsanitize=address")
 
 # RUN
 add_executable(SVD_OMP_RUN Main/svd.cpp Main/svd.h Main/Main.cpp)
